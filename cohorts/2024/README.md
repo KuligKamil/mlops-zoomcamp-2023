@@ -39,3 +39,9 @@
 [**Project**](project.md)
 
 * [More information](project.md)
+
+
+# run this commends
+mlflow ui --backend-store-uri sqlite:///mlflow.db
+
+python cohorts/2024/02-experiment-tracking/homework/train.py
